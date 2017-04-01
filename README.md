@@ -12,3 +12,6 @@ The purpose of this interpreter is for me and others to learn as I work my way t
 If anyone else views this package as I work through Thorsten's book, I hope it provides assistance and further understanding.  
 
 If you or anyone has any questions for me regarding implementation choices that I made differently from "Writing an Interpreter in Go," or any questions about my journey whatsoever, please feel free to contact me.
+
+#### TODOs:
+* Support source code in UTF-8 instead of ASCII
