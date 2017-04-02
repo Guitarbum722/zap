@@ -1,5 +1,7 @@
 # ZAP
 
+[![Build Status](https://travis-ci.org/Guitarbum722/zap.svg?branch=master)](https://travis-ci.org/Guitarbum722/zap)
+
 #### _A simple interpreter for a simple language...Zap!_
 
 
